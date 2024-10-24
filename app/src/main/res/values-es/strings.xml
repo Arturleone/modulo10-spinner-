@@ -1,11 +1,6 @@
 <resources>
-    <string name="app_name">Mi Aplicación</string>
-    <string name="welcome_message">Bienvenido a la aplicación</string>
-    <string name="change_theme">Cambiar Tema</string>
-    <string name="portuguese">Portugués</string>
-    <string name="english">Inglés</string>
-    <string name="spanish">Español</string>
-    <string name="small">Pequeño</string>
-    <string name="medium">Medio</string>
-    <string name="large">Grande</string>
+    <string name="app_name">Tu Aplicación</string>
+    <string name="language_portuguese">Portugués</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_spanish">Español</string>
 </resources>
