@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_message">Welcome to the app</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="portuguese">Portuguese</string>
+    <string name="english">English</string>
+    <string name="spanish">Spanish</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+</resources>
